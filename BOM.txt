@@ -1,0 +1,15 @@
+Build of Materials
+
+- 1 x NodeMCU ESP866 Development Board
+- 4 x red 5mm LEDs
+- 1 x Adafruit 1/4 size perma proto board
+- 4 x 100 ohm resistors
+- 5 x 3D printed diffusers
+- 1 x 3D printed shell
+- 1 x 3D printed lid
+- 4 x M3 x 5mm hex standoff (female-female)
+- 4 x M3 x 5mm hex standoff (male-female)
+- 4 x M3 x 5mm screws
+- Wire
+- Solder
+- Aluminum Foil (optional)
